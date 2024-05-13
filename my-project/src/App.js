@@ -15,7 +15,7 @@ function App() {
         <li>home</li>
         <li>list </li>
         <li>number </li>
-        {appss()}
+        {appss( )}
         <li>about</li>
       </nav>
 
